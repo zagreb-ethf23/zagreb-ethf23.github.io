@@ -8,12 +8,11 @@ body {
 	width: 8.5in;
 	height: 11in;
 	box-shadow: -.1in -.1in .5in darkgray, .1in .1in .5in gray;
-	position: absolute ;
-	/* change the margins as you want them to be. */	
+	position: absolute ;	
 }
 
 .page_inner{
-	margin: 1in;  /* This manual offset accomodates the vertical space used add box shadow above */	
+	margin: 1in;  
 }
 
 th {
